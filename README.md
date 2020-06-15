@@ -6,5 +6,6 @@ React is alreday set up with django and venv is also set up.
 ```
 virtualenv venv
 source venv/bin/activate
+cd 
 python manage.py runserver
 ```
