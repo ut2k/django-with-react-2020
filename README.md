@@ -1,4 +1,4 @@
-# django-with-react-2020
+# Django backend and React frontend
 React is alreday set up with django and venv is also set up.
 
 ### Steps to activate and start working:
