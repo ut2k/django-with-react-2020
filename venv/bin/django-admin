@@ -1,4 +1,4 @@
-#!/Users/utkarshmishra/Desktop/summer/venv/bin/python
+#!/Users/utkarshmishra/Documents/GitHub/django-with-react-2020/venv/bin/python3.7
 # -*- coding: utf-8 -*-
 import re
 import sys

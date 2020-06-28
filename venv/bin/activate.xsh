@@ -25,7 +25,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Users/utkarshmishra/Desktop/summer/venv"
+$VIRTUAL_ENV = r"/Users/utkarshmishra/Documents/GitHub/django-with-react-2020/venv"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
